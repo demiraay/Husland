@@ -1,0 +1,11 @@
+Asli 1400
+Mehmet 1000
+Ahmet 1400
+Zeynep 1400
+Fatih 1000
+Yaren 1800
+Umay 1000
+Player8 1400
+Player9 1400
+Player10 1000
+Player11 1000

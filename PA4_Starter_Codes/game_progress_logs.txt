@@ -1,0 +1,150 @@
+[Item Drop] GOLDIUM dropped on Isle: Bursa
+[Item Drop] GOLDIUM dropped on Isle: Duzce
+[Item Drop] GOLDIUM dropped on Isle: Lubnan
+[Item Drop] GOLDIUM dropped on Isle: Sakarya
+[Item Drop] GOLDIUM dropped on Isle: Zonguldak
+[Item Drop] GOLDIUM dropped on Isle: Istanbul
+[Item Drop] EINSTEINIUM dropped on Isle: Duzce
+[Item Drop] EINSTEINIUM dropped on Isle: Konya
+[Item Drop] EINSTEINIUM dropped on Isle: Maras
+[Explore Area] Mehmet visited Ankara
+[Energy] Mehmet's new energy level is 0
+[Explore Area] Asli visited Fransa
+[Energy] Asli's new energy level is 0
+[Explore Area] Yaren visited Lubnan
+[Energy] Yaren's new energy level is 250
+[Explore Area] Ahmet visited Maras
+[Energy] Ahmet's new energy level is 2000
+[Explore Area] Zeynep visited Kirikkale
+[Energy] Zeynep's new energy level is 0
+[Duel] Asli won the duel
+[Honour] New honour points: Asli-1400 Asli-1400
+[Explore Area] Umay does not have access to explore area Manisa
+[Explore Area] Player11 visited Yalova
+[Energy] Player11's new energy level is 0
+[Explore Area] Player8 visited Maras
+[Energy] Player8's new energy level is 2000
+[Explore Area] Mehmet visited Sakarya
+[Energy] Mehmet's new energy level is 250
+[Explore Area] Asli visited Sakarya
+[Energy] Asli's new energy level is 250
+[Duel] Yaren won the duel
+[Honour] New honour points: Yaren-1950 Ahmet-1250
+[Explore Area] Yaren visited Maras
+[Energy] Yaren's new energy level is 2250
+[Energy] Ahmet has enough energy points: 2000
+[Craft] Ahmet crafted new Isle Tarbella
+[Explore Area] Ahmet visited Yalova
+[Energy] Ahmet's new energy level is 0
+[Explore Area] Zeynep visited Yalova
+[Energy] Zeynep's new energy level is 0
+[Explore Area] Umay visited Yalova
+[Energy] Umay's new energy level is 0
+[Duel] Mehmet lost the duel
+[Honour] New honour points: Mehmet - 850 Asli - 1550
+[Explore Area] Fatih visited Yalova
+[Energy] Fatih's new energy level is 0
+[Explore Area] Player8 visited Yalova
+[Energy] Player8's new energy level is 2000
+[Explore Area] Player9 visited Yalova
+[Energy] Player9's new energy level is 0
+[Explore Area] Yaren visited Yalova
+[Energy] Yaren's new energy level is 2250
+[Explore Area] Asli visited Yalova
+[Energy] Asli's new energy level is 250
+[Duel] Yaren lost the duel
+[Honour] New honour points: Yaren - 1800 Asli - 1700
+[Explore Area] Mehmet visited Yalova
+[Energy] Mehmet's new energy level is 250
+[Explore Area] Player10 visited Yalova
+[Energy] Player10's new energy level is 0
+[Owercrowding] Yalovaself-destructed, it will be removed from the map
+[Explore Area] Mehmet visited Maras
+[Energy] Mehmet's new energy level is 2250
+[Explore Area] Ahmet visited Hatay
+[Energy] Ahmet's new energy level is 0
+[Explore Area] Ahmet visited Hatay
+[Energy] Ahmet's new energy level is 0
+[Duel] Player8 lost the duel
+[Honour] New honour points: Player8 - 1250 Zeynep - 1550
+[Explore Area] Ahmet visited Zonguldak
+[Energy] Ahmet's new energy level is 250
+[Energy] Yaren has enough energy points: 2250
+[Craft] Yaren crafted new Isle Halat
+[Energy] Ahmet does not have enough energy points: 250
+[Explore Area] Mehmet visited Duzce
+[Energy] Mehmet's new energy level is 4250
+[Energy] Player8 has enough energy points: 2000
+[Craft] Player8 crafted new Isle Navalicia
+[Duel] Player11 lost the duel
+[Honour] New honour points: Player11 - 850 Fatih - 1150
+[Energy] Mehmet has enough energy points: 4250
+[Craft] Mehmet crafted new Isle Yalova
+[Energy] Mehmet has enough energy points: 2250
+[Craft] Mehmet crafted new Isle Pearlwater
+[Explore Area] Yaren visited Duzce
+[Energy] Yaren's new energy level is 2250
+[Explore Area] Mehmet visited Venedik
+[Energy] Mehmet's new energy level is 250
+[Energy] Ahmet does not have enough energy points: 250
+[Duel] Zeynep lost the duel
+[Honour] New honour points: Zeynep - 1400 Mehmet - 1000
+[Explore Area] Mehmet visited Venedik
+[Energy] Mehmet's new energy level is 250
+[Energy] Yaren has enough energy points: 2250
+[Item Drop] GOLDIUM dropped on Isle: Almanya
+[Item Drop] GOLDIUM dropped on Isle: Hatay
+[Item Drop] GOLDIUM dropped on Isle: Ankara
+[Item Drop] GOLDIUM dropped on Isle: Konya
+[Item Drop] GOLDIUM dropped on Isle: Pearlwater
+[Item Drop] GOLDIUM dropped on Isle: Sakarya
+[Item Drop] GOLDIUM dropped on Isle: Venedik
+[Item Drop] EINSTEINIUM dropped on Isle: Altak
+[Item Drop] EINSTEINIUM dropped on Isle: Hatay
+[Item Drop] EINSTEINIUM dropped on Isle: Lubnan
+[Item Drop] EINSTEINIUM dropped on Isle: Pearlwater
+[BFS Drop] AMAZONITE dropped on Isle: Mugla
+[Craft] Yaren crafted new Isle Altak
+[Explore Area] Mehmet visited Yalova
+[Energy] Mehmet's new energy level is 250
+[Duel] Player10 lost the duel
+[Honour] New honour points: Player10 - 850 Fatih - 1300
+[Duel] Player10 lost the duel
+[Honour] New honour points: Player10 - 700 Fatih - 1450
+[Duel] Player10 lost the duel
+[Honour] New honour points: Player10 - 550 Fatih - 1600
+[Duel] Mehmet lost the duel
+[Honour] New honour points: Mehmet - 850 Asli - 1850
+[Duel] Player9 won the duel
+[Honour] New honour points: Player9-1550 Zeynep-1250
+[Duel] Player9 won the duel
+[Honour] New honour points: Player9-1700 Mehmet-700
+[Duel] Fatih won the duel
+[Honour] New honour points: Fatih-1750 Player9-1550
+[Duel] Umay lost the duel
+[Honour] New honour points: Umay - 850 Yaren - 1950
+[Duel] Umay lost the duel
+[Honour] New honour points: Umay - 700 Yaren - 2100
+[Duel] Umay lost the duel
+[Honour] New honour points: Umay - 550 Yaren - 2250
+[Duel] Umay lost the duel
+[Honour] New honour points: Umay - 400 Yaren - 2400
+[Duel] Umay lost the duel
+[Honour] New honour points: Umay - 250 Yaren - 2550
+[Duel] Yaren won the duel
+[Honour] New honour points: Yaren-2700 Asli-1700
+[Duel] Mehmet lost the duel
+[Honour] New honour points: Mehmet - 550 Fatih - 1900
+[Duel] Zeynep won the duel
+[Honour] New honour points: Zeynep-1400 Mehmet-400
+[Duel] Player8 won the duel
+[Honour] New honour points: Player8-1400 Zeynep-1250
+[Duel] Umay lost the duel
+[Honour] New honour points: Umay - 100 Asli - 1850
+[Duel] Umay lost the duel
+[Honour] New honour points: Umay - -50 Asli - 2000
+[Duel] Umay lost all honour, delete
+[Duel] Zeynep won the duel
+[Honour] New honour points: Zeynep-1400 Asli-1850
+[Duel] Player8 won the duel
+[Honour] New honour points: Player8-1550 Fatih-1750

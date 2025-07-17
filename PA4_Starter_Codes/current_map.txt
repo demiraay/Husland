@@ -1,0 +1,7 @@
+Istanbul 
+Ankara Mugla 
+Almanya Duzce Manisa Venedik 
+Afyon Altak Bursa Halat Konya Maras Sakarya Zonguldak 
+NULL NULL NULL NULL NULL NULL Fransa Hatay Kirikkale Lubnan NULL NULL Navalicia Tarbella Yalova NULL 
+NULL NULL NULL NULL NULL NULL NULL NULL NULL Pearlwater NULL NULL NULL NULL 
+NULL NULL 
